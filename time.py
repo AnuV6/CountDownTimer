@@ -11,3 +11,4 @@ def check(password):
 if __name__ == "__main__":
     print("This program checks a secret password, but it's not safe.")
     print("Hint: Look at the check() function carefully.")
+    print("The flag is:", FLAG)
